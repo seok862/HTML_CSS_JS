@@ -22,4 +22,6 @@
 >- 또한 스페이스를 통한 공백도 한 번씩 밖에 인정되지 않는다.
 
 html에서는 br태그가 '줄바꿈'을 담당한다<br>
-공백을 두 번 이상 표시하고자 할 때는 \&nbsp;를 사용한다
+공백을 두 번 이상 표시하고자 할 때는 \&nbsp;를 사용한다.
+
+<img width="80%" src="https://user-images.githubusercontent.com/96412509/152335168-e4792945-7a3b-45c9-9d71-daebf1f522e3.png"/>
