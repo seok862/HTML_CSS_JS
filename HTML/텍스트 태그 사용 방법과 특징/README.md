@@ -24,4 +24,5 @@
 html에서는 br태그가 '줄바꿈'을 담당한다<br>
 공백을 두 번 이상 표시하고자 할 때는 \&nbsp;를 사용한다.
 
+# 사용 예시
 <img width="80%" src="https://user-images.githubusercontent.com/96412509/152335168-e4792945-7a3b-45c9-9d71-daebf1f522e3.png"/>
