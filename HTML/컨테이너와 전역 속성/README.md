@@ -19,3 +19,6 @@
 - class : 요소를 그룹 별로 묶을 수 있는 식별자 역할 속성
 - style : 요소에 적용할 CSS 스타일을 선언하는 속성
 - title : 요소의 추가 정보를 제공하는 텍스트 속성. 사용자에게 툴팁 제공
+
+# 사용 예시
+<img src="https://user-images.githubusercontent.com/96412509/152344236-3040c5fe-2674-4815-92a4-59cbf39d664d.png" width="80%" />
