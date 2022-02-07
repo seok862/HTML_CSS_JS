@@ -25,3 +25,7 @@
     max : 최대값
     min : 최소값
     step : 값의 단위
+
+# 사용 예시
+
+![입력 요소 만들기](https://user-images.githubusercontent.com/96412509/152778984-48314eec-0d5e-4c7c-acaf-5f2f89b3caab.png)
