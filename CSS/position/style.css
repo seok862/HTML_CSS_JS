@@ -1,13 +1,6 @@
-div{
+.pos{
     width: 200px; height: 200px;
-    background-color: yellow;
-    position: relative;
-    border: 1px solid black;
-}
-
-.abs{
-    width: 100px; height: 100px;
-    background-color: red;
-    position: absolute;
-    top: 100px;
+    background: tomato;
+    position: sticky;
+    bottom: 0px;
 }
