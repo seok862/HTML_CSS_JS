@@ -1,0 +1,11 @@
+div {
+     border : 3px solid red;
+     display: inline;
+}
+
+span{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: rgb(100%, 50%, 0%);
+    display: inline-block;
+}
