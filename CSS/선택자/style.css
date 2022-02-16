@@ -1,7 +1,6 @@
- .text{
-     color: red;
- }
-
- h1{
-     color: blue;
- }
+[class $= "ext"]{
+    color: blue;
+}
+[id ^= "uni"]{
+    color: red;
+}
