@@ -25,3 +25,6 @@ flexbox를 다루기 위해 다음과 같은 속성들을 사용할 수 있다.
 - 교차축 배치 방법 : align-items
 - 교차축 개별요소 배치 방법 : align-self
 - 줄 바꿈 여부 : flex-wrap
+
+## flexbox 연습하는 사이트
+https://flexboxfroggy.com/#ko
