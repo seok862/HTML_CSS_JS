@@ -1,0 +1,11 @@
+/* first-line marker placeholder before after*/
+
+p::before{
+    content: "앞에다 추가한 텍스트 요소";
+    color: red; font-weight: 900;
+}
+
+p::after{
+    content: "뒤에다 추가한 텍스트 요소";
+    color: yellowgreen; font-weight: 100;
+}
