@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px; height: 300px;
+
+    color: tomato;
+    font-size: 32px;
+    border: 3px dashed red;
+}
+
+p{
+    color: unset;
+    font-size: unset;
+    border: unset;
+    width: unset;
+}
