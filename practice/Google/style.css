@@ -1,0 +1,29 @@
+body {
+    font-size : 14px;
+    font-family: Apple SD Gothic Neo,arial,sans-serif;
+    color: #bdc1c6;
+}
+
+.nav {
+    padding: 6px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+a{
+    margin-left: 15px;
+    text-decoration: none;
+    text-decoration-color: bdc1c6;
+    color: bdc1c6;
+}
+
+main{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.img{
+    width: 384px;
+    height: 186px;
+}
