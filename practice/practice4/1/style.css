@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+.flexbox2{
+    display: flex;
+}
+
+.div2{
+    margin-right: 5px;
+}
