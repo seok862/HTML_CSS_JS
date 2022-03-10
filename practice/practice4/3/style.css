@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+}
+
+.div1{
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    color: white;
+    background-color: gray;
+    position: relative;
+}
+.div2{
+    position: absolute;
+    color: white;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    left: 100px;
+    top: 100px;
+}
+
