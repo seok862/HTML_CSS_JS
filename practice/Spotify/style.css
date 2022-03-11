@@ -1,0 +1,226 @@
+body{
+    margin : 0;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 0;
+    height: 80px;
+    position: relative;
+}
+
+.logo{
+    width: 132px;
+    height: 41.89px;
+    position: relative;
+    bottom: 10px;
+ 
+}
+
+.logo-name{
+    position: absolute;
+    left: 128px;
+    width: 132px;
+    height: 41.89px;
+    top: 18px;
+}
+
+.nav-right{
+    position: relative;
+    top: 28px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-item{
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 1.5;
+    padding: 28px 17px;
+    font-weight: 700;
+}
+
+a:hover{
+    color: #1ed760;
+}
+
+main{
+    background-color: rgb(41, 65, 171);
+    height: 969px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #1ed760;
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    background-size: 175%;
+    background-position: 46% 4%;
+    
+}
+
+.main-first{
+    font-size: 136px;
+    font-weight: 900;
+    position: relative;
+    left: 150px;
+    padding-bottom: 40px;
+}
+ 
+.first-top{
+    position: relative;
+    left: -1.5em;
+}
+
+.main-second{
+    color: #1ed760;
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 40px;
+}
+
+.main-third{
+    text-align: center;
+}
+
+.button-style{
+    padding: 14px 32px;
+    border-radius: 500px;
+    color: #2941AB;
+    background-color: #1ED760;
+    border: 0;
+    font-weight: 700;
+    font-size: inherit;
+}
+
+.button-style:hover{
+    background-color: #21e065;
+    transform: scale(1.04);
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 25px;
+}
+
+.footer-container{
+    height: 400px;
+    margin: 0 15px;
+    width: 1170px;
+ 
+}
+
+.firstline{
+    display: flex;
+    margin: 0 21px;
+  
+}
+
+.firstline-item{
+    padding: 0 15px;
+    height: 346px;
+    width: 16.66666667%;
+    margin: 20px 0;
+}
+
+.second-name{
+    margin: 20px 0;
+    font-size:  12px;
+    color: #919496;
+    letter-spacing: .08em;
+    font-weight: 900;
+}
+
+.second-item{
+    padding: 3px 0 15px 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.4;
+}
+
+.secondline{
+    display: flex;
+    font-size: 12px;
+    justify-content: flex-end;
+    margin: 0 15px 0 auto;
+    color: #919496;
+}
+
+.thirdline{
+    display: flex;
+    font-size: 12px;
+    font-weight: 400;
+    width: 1170px;
+    color: #919496;
+}
+
+.thirdlist{
+    color: #919496;
+    display: flex;
+    justify-content: space-between; 
+}
+
+span{
+    text-align: right;
+}
+
+li{
+    list-style: none;
+}
+
+.USA{
+    color: #919496;    
+}
+.third-item{
+    margin: 0 24px 0 0;
+    color: #919496;
+}
+
+.third-item-rigth{
+    margin: 0 15px 0 auto;
+    padding: 12px 0;
+}
+
+.usa-icon{
+    margin-right: 5px;
+}
+
+.icon-box {
+    width: 54px;
+    height: 54px;
+    background-color: #222322;
+    border-radius: 50%;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .icon {
+    font-size: 24px;
+  }
+  .icon:hover {
+    color: #2de26d;
+  }
+
+  .boxx{
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .footer-logo{
+    width: 132px;
+    height: 41.89px;
+    position: relative;
+    top : 10px;
+  }
