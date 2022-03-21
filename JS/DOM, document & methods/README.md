@@ -42,7 +42,7 @@ document.getElementById("image");
 
 ## textContent
 
-- textContent속성은 해당 노드가 포함하고 있는 텍스트 콘텐츠를 표현하는 속성이다. textContent를 통해 ㅛㅇ소가 포함한 텍스트를 읽을 수도, 변경할 수도 있다.
+- textContent속성은 해당 노드가 포함하고 있는 텍스트 콘텐츠를 표현하는 속성이다. textContent를 통해 요소가 포함한 텍스트를 읽을 수도, 변경할 수도 있다.
 
 ```javascript
 // p 요소를 반환받아 상수로 이름을 붙인다
