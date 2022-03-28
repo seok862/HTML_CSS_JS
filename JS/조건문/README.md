@@ -15,6 +15,20 @@ if(조건){
 } else{
     // 조건이 false일 때 실행할 코드
 }
+
+// 버튼을 클릭했을 때 나타나는 동작
+<input id="night_day" type="button" value="night" onclick="
+    var target = document.querySelector('body');
+    if(this.value === 'night'){
+      target.style.backgroundColor = 'black';
+      target.style.color = 'white';
+      this.value = 'day';
+    } else {
+      target.style.backgroundColor = 'white';
+      target.style.color = 'black';
+      this.value = 'night';
+    }">
+
 ```
 
 - 예제
@@ -23,9 +37,8 @@ if(조건){
 let number = 5;
 
 if(number == 3){
-    console.log("It is ture!")
+    console.log('It is ture!');
 } else{
-    console.log("It is false!")
+    console.log('It is false');
 }
 ```
-
