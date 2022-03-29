@@ -1,3 +1,39 @@
 body{
     margin: 0;
 }
+
+.nav-box{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-item{
+    margin-right: 20px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: black;
+    position: relative;
+}
+
+.nav-item::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 4px;
+    background: #0d6efd;
+    transition: all .5s ease-out;
+}
+
+.nav-item:hover::after{
+    width:100%
+}
+
